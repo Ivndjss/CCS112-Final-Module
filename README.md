@@ -107,8 +107,7 @@ Start the tkinter event loop (this is needed for the GUI to run)
     window.mainloop()
 
 
-### 3) Create a dialog box with a 400x200 dimension, button to print label “Laguna 
-University” when clicked. Follow other options e.g. color
+### 3) Create a dialog box with a 400x200 dimension, button to print label “University of Cabuyao” when clicked. Follow other options e.g. color
 
 Import the tkinter module for GUI creation
     
